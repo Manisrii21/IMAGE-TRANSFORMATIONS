@@ -144,7 +144,7 @@ display_image(cropped_image, 'Cropped Image')
 
 
 ### vi)Image Cropping
-![Uploading Screenshot 2025-04-22 210641.png…]()
+![Screenshot 2025-04-22 210641](https://github.com/user-attachments/assets/a5f8b0f2-f793-4e72-b5bc-5f81a496035a)
 
 
 
